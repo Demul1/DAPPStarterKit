@@ -1,10 +1,22 @@
 # DAPPStarterKit
 
 ## About
-This is a simply starter kit which contains the necesary files for a decentralized application (DAPP). It includes truffle migrations and a basic structure for a DAPP. 
+This is a simply starter kit which contains the necesary files for a decentralized application (DAPP). It includes truffle, react, chai, web3, babel and a basic infrastrucutre for a DAPP. 
 
 ## Prerequisites
 
 1. Install [Node.js](https://nodejs.org/en/download/)
 
-2.
+## Getting Started
+
+1. Run the following code in your command line:
+`
+$ git clone https://github.com/Demul1/DAPPStarterKit
+
+$ cd DAPPStarterKit
+
+$ git remote remove origin
+`
+
+
+
