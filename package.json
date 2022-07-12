@@ -1,7 +1,7 @@
 {
-  "name": "DYLANSwap",
+  "name": "",
   "version": "0.1.0",
-  "description": "An Ethereum Marketplace",
+  "description": "",
   "author": "",
   "dependencies": {
     "babel-polyfill": "6.26.0",
