@@ -10,13 +10,6 @@ This is a simply starter kit which contains the necesary files for a decentraliz
 ## Getting Started
 
 1. Run the following code in your command line:
-`
-$ git clone https://github.com/Demul1/DAPPStarterKit
-
-$ cd DAPPStarterKit
-
-$ git remote remove origin
-`
 
 
 
