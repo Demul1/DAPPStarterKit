@@ -11,5 +11,24 @@ This is a simply starter kit which contains the necesary files for a decentraliz
 
 1. Run the following code in your command line:
 
+```
+#clone repository
+$ git clone https://github.com/Demul1/DAPPStarterKit
+
+#move into repository
+$ cd DAPPStarterKit
+
+#remove current origin repository
+$ git remote remove origin
+```
+2. Install necessary dependencies:
+
+```
+#install dependencies
+$npm install
+
+#start server
+$npm start
+```
 
 
