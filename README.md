@@ -1,7 +1,7 @@
 # DAPPStarterKit
 
 ## About
-This is a simply starter kit which contains the necesary files for a decentralized application (DAPP). It includes truffle, react, chai, web3, babel and a basic infrastrucutre for a DAPP. 
+This is a simple starter kit which contains the necesary files for a decentralized application (DAPP). It includes truffle, react, chai, web3, babel and a basic infrastrucutre for a DAPP. 
 
 ## Prerequisites
 
